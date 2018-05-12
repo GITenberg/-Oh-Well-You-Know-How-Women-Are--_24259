@@ -1,0 +1,39 @@
+_repo: -Oh-Well-You-Know-How-Women-Are--_24259
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24259-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Rinehart, Mary Roberts
+    birthdate: &id001 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+  - agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
+    alias: Cobb, Irvin Shrewsbury
+    birthdate: *id001
+    deathdate: 1944
+    gutenberg_agent_id: '559'
+    url: http://www.gutenberg.org/2009/agents/559
+    wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2008-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex differences -- Humor'
+- !lcsh 'Women -- Humor'
+- !lcc 'PS'
+- !lcsh 'Men -- Humor'
+tableOfContents: "'Oh, Well, You Know How Women Are!' / Cobb -- 'Isn't\r\nThat Just\
+  \ Like a Man!' / Rinehart"
+title: '''Oh, Well, You Know How Women Are!'''
+url: http://www.gutenberg.org/ebooks/24259
