@@ -6,19 +6,21 @@ covers:
 creator:
   authors:
   - agent_name: Rinehart, Mary Roberts
-    birthdate: &id001 1876
+    birthdate: 1876
     deathdate: 1958
     gutenberg_agent_id: '183'
     url: http://www.gutenberg.org/2009/agents/183
     wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
   - agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
     alias: Cobb, Irvin Shrewsbury
-    birthdate: *id001
+    birthdate: 1876
     deathdate: 1944
     gutenberg_agent_id: '559'
     url: http://www.gutenberg.org/2009/agents/559
     wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24259#-Oh-Well-You-Know-How-Women-Are--
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2008-01-12'
 gutenberg_type: Text
